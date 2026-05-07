@@ -1,0 +1,2 @@
+{"timestamp": "2026-05-07T11:32:09.222562", "tool_name": "index_manager:stats", "success": true, "elapsed_ms": 69}
+{"timestamp": "2026-05-07T11:32:57.828642", "tool_name": "state_manager:get-progress", "success": true, "elapsed_ms": 68}
